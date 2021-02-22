@@ -10,9 +10,9 @@
 
 ### Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img src="./.github/1.png" width="180">
-   <img src="./.github/2.png" width="180">
-   <img src="./.github/3.png" width="180">
+   <img src="./.github/1.jpg" width="180">
+   <img src="./.github/2.jpg" width="180">
+   <img src="./.github/3.jpg" width="180">
 </div>
 
 # :computer: Technology
